@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Mada&family=Montserrat&family=Roboto&family=Rubik&display=swap');
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: #360369;
+  font-family: Montserrat;
+}
+/* page 1 */
+
+/* heading 1 css */
+
+.heading1 {
+  color: white;
+  font-size: 100px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 13%;
+}
+/* Fetch button css */
+
+#Fetchbtn{
+  background-color: white;
+  padding:20px 35px;
+  align-items: center;
+  margin-left:45%;
+  margin-top:45vw;
+  border-radius:10px;
+  transition: all linear 0.5s;
+  text-decoration: none;
+  
+  
+}
+/* #aFetchbtn{
+  
+} */
+.Fetchbtn:hover {
+  scale: 1.04;
+}
+
+
+
